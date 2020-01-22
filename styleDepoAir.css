@@ -1,0 +1,88 @@
+/* CSS Document */
+
+body {
+	background-color: #F1F1F1;
+	background-image: url(images/backgroundDepo.jpg);
+	background-size: 150%;
+	background-repeat: no-repeat;
+	background-blend-mode: multiply;
+}
+
+/* CSS Div kepalaWeb */
+#kepalaWeb h2
+{
+	font-family: Cambria;
+	font-size: 40px;
+}
+#kepalaWeb p
+{
+	font-family: Cambria;
+	font-size:20px;
+}
+
+
+/* CSS Div isiweb */
+#isiweb a{
+	font-family: Cambria;
+	text-decoration: none;
+	color: #000000;
+}
+
+#isiweb a:hover{
+	font-family: Cambria;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: black;
+	box-shadow: 2px 4px 3px 2px #222;
+	text-shadow: 1px 2px 2px #111;
+}
+
+#isiweb{
+	background-color: #ccddff;
+	opacity: 0.8;
+	width: 40%;
+	height: 50%;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	font-family: Cambria;
+	border: solid 5px black;
+}
+
+#isiwebKepala{
+	font-size:40px;
+}
+#isiwebKonten{
+	font-size:20px;
+}
+
+#isiweb a{
+	font-family: Cambria;
+	text-decoration: none;
+	color: #000000;
+}
+
+#isiweb a:hover{
+	font-family: Cambria;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: black;
+	box-shadow: 2px 4px 3px 2px #222;
+	text-shadow: 1px 2px 2px #111;
+}
+
+/* CSS Div isiTabel */
+#isitabel tr{
+	text-align:center;
+	font-size:24px;
+	height:60px;
+	
+}
+
+/* CSS Div isiwebFooter */
+
+#isiwebFooter
+{
+	font-size:18px;
+	font-family: Cambria;
+	
+}
